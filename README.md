@@ -1,9 +1,6 @@
 # etl_dataengineering-project
 **INST767 Final Project**
 
-Initially, our focus was on utilizing the APIs and data sources from Cricbuzz. However, as we delved into our other project involving Football APIs, we realized the potential for completing the Cricbuzz project as well. Although our data pipeline was only halfway implemented initially, we have made significant strides and gained valuable insights, particularly in the implementation of Looker Studio.
-
-
 ![IMG-20240510-WA0005](https://github.com/Arya-UMD/etl_dataengineering-project/assets/152458007/d8a368ca-5d08-4575-a123-55e884e6de3a)
 **Introduction** 
 
@@ -143,8 +140,3 @@ We can clearly see that there are 26.67% Indians in the Top 15 ICC rankings and 
 As a further extension of the Query and out of the scope of the project we visualized the final query on Looker Studio
 
 ![image](https://github.com/Arya-UMD/etl_dataengineering-project/assets/152458007/adc08568-871d-4ee2-8afe-e2782ec65cc0)
-
-
-Note: The recent commits indicate the files which were committed as part of a feature branch in the repository (https://github.com/hramac/INST767_Big-Data-Infrastructure/tree/harshitha/cricbuzz_data).
-
-
